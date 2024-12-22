@@ -17,3 +17,5 @@
 - URL para clone: https://accounts.spotify.com/pt-BR/login
 
 ### Resutados
+
+![Texto Alternativo](https://raw.githubusercontent.com/Lukgt4/dio-desafio-phishing/refs/heads/main/phishing%20spotify.png?token=GHSAT0AAAAAAC4JCYCPBT52SYG2Y3KTWXIUZ3ILTSA)
